@@ -12,7 +12,6 @@ phases:
   install:
     commands:
       - echo "Sfdsafsedaupfds dog, how's it doing"
-      - git status
   #pre_build:
     #commands:
       # - command
