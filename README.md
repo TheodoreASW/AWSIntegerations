@@ -1,2 +1,2 @@
-# AWSIntegerati
+# AWSIntegeration
 some content
