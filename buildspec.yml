@@ -11,7 +11,7 @@ version: 0.2
 phases:
   install:
     commands:
-      - echo "Sup dog, how's it doing"
+      - echo "Supfds dog, how's it doing"
       - git status
   #pre_build:
     #commands:
